@@ -23,5 +23,5 @@ This project is built with Python 3.12, Pytorch 2.3, CUDA 12.4, Cudnn-cuda-12, a
 For installing, follow these instructions:
 ```
 conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
-pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image 
+pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_scheduler
 ```
