@@ -1,7 +1,7 @@
-# EHNet-Efficient-Hybrid-Network-with-Dual-Attention-for-Image-Deblurring
+# EHNet Efficient Hybrid Network with Dual Attention for Image Deblurring
 
 Quoc-Thien Ho, Minh-Thien Duong, Seongsoo Lee and Min-Cheol Hong
-> Abtract: The motion of an object or camera platform makes the acquired image blurred. This degradation
+> Abstract: The motion of an object or camera platform makes the acquired image blurred. This degradation
 is a major reason to obtain a poor-quality image from an imaging sensor. Therefore, developing an efficient
 deep-learning-based image processing method to remove the blur artifact is desirable. Deep learning has
 recently demonstrated significant efficacy in image deblurring, primarily through convolutional neural
