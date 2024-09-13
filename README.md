@@ -33,9 +33,9 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 - GOPRO / HIDE / RealBlur_J / RealBlur_R
 
 
-├─ train
+├─ test
 
-│ ├─ input    % 2103 image pairs
+│ ├─ input    % GoPro 1111 image pairs, HIDE 2025 image pairs, RealBLur_J 980 image pairs, RealBlur_R 980 images pairs.
 
 │ │ ├─ xxxx.png
 
@@ -50,9 +50,9 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 │ │ ├─ ......
 
 │
-├─ test    % 1111 image pairs
+├─ train   
 
-│ ├─ ...... (same as train)
+│ ├─ ...... (same as test)
 
 -  
 
