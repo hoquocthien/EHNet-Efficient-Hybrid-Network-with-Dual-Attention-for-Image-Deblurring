@@ -70,11 +70,11 @@ python train.py --target_dir path_to_target --input_dir path_to_input --model_sa
 python test.py --target_dir path_to_target --input_dir path_to_input --weights path_to_pretrained_weights --output_dir path_to_save_image 
 ```
 ## Evaluation
-- For evaluation GoPro / HIDE dataset. Compare the results output with target images of the test set.
+- For evaluation GoPro / HIDE dataset. Compare the results images with the target images of the test set.
 ```
 evaluate_GOPRO.m
 ```
- For evaluation Realblur_J / RealBlur_R dataset.  Compare the results output with target images of the test set.
+ For evaluation Realblur_J / RealBlur_R dataset.  Compare the results images with the target images of the test set.
 ```
 evaluate_realblur.py
 ```
