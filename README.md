@@ -61,8 +61,11 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 [RealBlur_R](https://drive.google.com/drive/folders/1oLF5BwrBa99U4y5KqzpbPX6TYjkNc0iw?usp=drive_link).
 
 ## Training
+To train EHNet, run the command line as follows:
+python train.py --target_dir path_to_target --input_dir path_to_input --model_save_dir path_to_save_model
 
 ## Testing
+python test.py --target_dir path_to_target --input_dir path_to_input --weights path_to_pretrained_weights --output_dir path_to_save_image 
 
 ## Evaluation
 
