@@ -54,5 +54,9 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 
 │ ├─ ...... (same as test)
 
--  
+-  Processed test data:
+[GoPro dataset](https://drive.google.com/drive/folders/1UJBDkoIngLHeHAPraB80CDZT1xnWSg-S?usp=drive_link).
+[HIDE dataset](https://drive.google.com/drive/folders/1UO6Inn6mNur0CRjjyr9QxAtpR9szPbbM?usp=drive_link).
+[RealBlur_J](https://drive.google.com/drive/folders/1-HlxxzWrrxCytQDOM6bZPNCdUMOfIkWe?usp=drive_link).
+[RealBlur_R](https://drive.google.com/drive/folders/1oLF5BwrBa99U4y5KqzpbPX6TYjkNc0iw?usp=drive_link).
 
