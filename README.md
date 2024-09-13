@@ -27,4 +27,19 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 ```
 ## Dataset 
 - Download deblur dataset: [GoPro dataset](https://seungjunnah.github.io/Datasets/gopro.html), [HIDE dataset](https://github.com/joanshen0508/HA_deblur?tab=readme-ov-file), [RealBlur](https://cg.postech.ac.kr/research/realblur/).
-  
+
+- Preprocess data folder. The data folder should be like the format:
+- GOPRO
+├─ train
+│ ├─ blur    % 2103 image pairs
+│ │ ├─ xxxx.png
+│ │ ├─ ......
+│ │
+│ ├─ sharp
+│ │ ├─ xxxx.png
+│ │ ├─ ......
+│
+├─ test    % 1111 image pairs
+│ ├─ ...... (same as train)
+
+-  
