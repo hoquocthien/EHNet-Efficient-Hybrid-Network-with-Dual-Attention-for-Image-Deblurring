@@ -35,7 +35,7 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 
 ├─ train
 
-│ ├─ blur    % 2103 image pairs
+│ ├─ input    % 2103 image pairs
 
 │ │ ├─ xxxx.png
 
@@ -43,7 +43,7 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 
 │ │
 
-│ ├─ sharp
+│ ├─ target
 
 │ │ ├─ xxxx.png
 
