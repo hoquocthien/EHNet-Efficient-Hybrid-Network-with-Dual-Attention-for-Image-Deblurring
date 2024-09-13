@@ -35,7 +35,7 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 
 ├─ test
 
-│ ├─ input    % GoPro 1111 image pairs, HIDE 2025 image pairs, RealBLur_J 980 image pairs, RealBlur_R 980 images pairs.
+│ ├─ input    % GoPro 1111 image pairs, HIDE 2025 image pairs, RealBLur_J 980 image pairs, RealBlur_R 980 image pairs.
 
 │ │ ├─ xxxx.png
 
@@ -62,10 +62,20 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 
 ## Training
 To train EHNet, run the command line as follows:
+```
 python train.py --target_dir path_to_target --input_dir path_to_input --model_save_dir path_to_save_model
-
+```
 ## Testing
+```
 python test.py --target_dir path_to_target --input_dir path_to_input --weights path_to_pretrained_weights --output_dir path_to_save_image 
-
+```
 ## Evaluation
+- For evaluation GoPro / HIDE dataset. Compare the results output with target images of the test set.
+```
+evaluate_GOPRO.m
+```
+ For evaluation Realblur_J / RealBlur_R dataset.  Compare the results output with target images of the test set.
+```
+evaluate_realblur.py
+```
 
