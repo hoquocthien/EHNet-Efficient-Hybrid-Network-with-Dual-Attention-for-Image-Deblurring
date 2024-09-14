@@ -35,7 +35,7 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 
 ├─ test
 
-│ ├─ input       % GoPro 1111, HIDE 2025, RealBLur_J 980, RealBlur_R 980 image pairs.
+│ ├─ input      &emsp;&emsp; % GoPro 1111, HIDE 2025, RealBLur_J 980, RealBlur_R 980 image pairs.
 
 │ │ ├─ xxxx.png
 
