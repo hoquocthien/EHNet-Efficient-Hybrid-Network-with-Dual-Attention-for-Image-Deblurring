@@ -76,7 +76,7 @@ Evaluation with MATLAB code for consistency with previous methods.
 evaluate_GOPRO.m
 ```
 Evaluation with python code for consistency with previous methods.
- For evaluation Realblur_J / RealBlur_R dataset.  Compare the results images with the target images of the test set.
+- For evaluation Realblur_J / RealBlur_R dataset.  Compare the results images with the target images of the test set.
 ```
 evaluate_realblur.py
 ```
