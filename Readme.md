@@ -73,7 +73,7 @@ python test.py --target_dir path_to_target --input_dir path_to_input --weights p
 Evaluation with MATLAB code for consistency with previous methods.
 - For evaluation GoPro / HIDE dataset. Compare the results images with the target images of the test set.
 ```
-evaluate_GOPRO.m
+evaluate_gopro_hide.m
 ```
 Evaluation with python code for consistency with previous methods.
 - For evaluation Realblur_J / RealBlur_R dataset.  Compare the results images with the target images of the test set.
