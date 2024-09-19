@@ -6,4 +6,4 @@ Ablation study results on GoPro.
 
 [Model III](https://drive.google.com/file/d/1VNYkALg7VKiCSYS9YZ8XPobAWWKXmBER/view?usp=drive_link)
 
-[Model IV_EHNet_S](https://drive.google.com/file/d/1IxF9cvQLFe1TcdHePj4OSWW11_pxLlU3/view?usp=drive_link)
+[EHNet_S](https://drive.google.com/file/d/1IxF9cvQLFe1TcdHePj4OSWW11_pxLlU3/view?usp=drive_link)
