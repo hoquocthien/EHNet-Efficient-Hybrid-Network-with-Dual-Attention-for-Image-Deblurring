@@ -63,7 +63,7 @@ pip install natsort opencv-python einops ptflops lmdb tqdm scikit-image warmup_s
 ## Training
 To train EHNet, run the command line as follows:
 ```
-python train.py --train_dir path_to_train --val_dir path_to_valid --model_save_dir path_to_save_model
+python train.py --train_dir path_to_train_dir --val_dir path_to_valid_dir --model_save_dir path_to_save_model
 ```
 ## Testing
 ```
