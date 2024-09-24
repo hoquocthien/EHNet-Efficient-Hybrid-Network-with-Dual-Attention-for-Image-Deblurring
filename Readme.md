@@ -66,6 +66,7 @@ To train EHNet, run the command line as follows:
 python train.py --train_dir path_to_train_dir --val_dir path_to_valid_dir --model_save_dir path_to_save_model
 ```
 ## Testing
+To test EHNet, run the command line as follows:
 ```
 python test.py --target_dir path_to_target --input_dir path_to_input --weights path_to_pretrained_weights --output_dir path_to_save_image 
 ```
