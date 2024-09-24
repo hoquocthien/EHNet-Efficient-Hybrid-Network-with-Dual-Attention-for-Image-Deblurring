@@ -1,4 +1,4 @@
-# EHNet Efficient Hybrid Network with Dual Attention for Image Deblurring
+# EHNet: Efficient Hybrid Network with Dual Attention for Image Deblurring
 
 Quoc-Thien Ho, Minh-Thien Duong, Seongsoo Lee and Min-Cheol Hong
 > Abstract: The motion of an object or camera platform makes the acquired image blurred. This degradation
