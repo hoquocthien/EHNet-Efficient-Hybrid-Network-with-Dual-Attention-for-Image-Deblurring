@@ -18,7 +18,7 @@ overall performance. Finally, through comprehensive experiments, our compact mod
 and qualitative results for image deblurring on various benchmark datasets.
 
 ## Installation 
-This project is built with Python 3.12, Pytorch 2.3, CUDA 12.4, Cudnn-cuda-12, anaconda.
+This project is built with Python 3.12, Pytorch 2.3.1, CUDA 12.4, Cudnn-cuda-12, anaconda.
 
 For installing, follow these instructions:
 ```
