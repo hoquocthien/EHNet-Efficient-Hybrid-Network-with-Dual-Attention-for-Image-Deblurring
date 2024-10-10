@@ -81,6 +81,9 @@ Evaluation with python code for consistency with previous methods.
 ```
 evaluate_realblur.py
 ```
+## License
+Anyone can use or modify the source code for only academic purposes.
+
 ## Reference Code:
 
 https://github.com/chosj95/MIMO-UNet/tree/main
