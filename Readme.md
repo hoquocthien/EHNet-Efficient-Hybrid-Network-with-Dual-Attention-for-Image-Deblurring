@@ -17,6 +17,8 @@ mechanism. This innovation substantially reduces computational complexity and me
 overall performance. Finally, through comprehensive experiments, our compact model yields promising quantitative
 and qualitative results for image deblurring on various benchmark datasets.
 
+(https://www.mdpi.com/1424-8220/24/20/6545) 
+
 ## Installation 
 This project is built with Python 3.12, Pytorch 2.3.1, CUDA 12.4, Cudnn-cuda-12, anaconda.
 
